@@ -45,9 +45,11 @@
     .estudante_titulo{
     padding: 50px;
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
 .estudante-nome{
-text-align: center;
+text-align: center 
 }
 .estudante-imagem{
 width: 120px;
